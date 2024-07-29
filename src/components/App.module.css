@@ -1,0 +1,22 @@
+.swap{
+    background-color:rgb(64, 64, 184);
+    color: azure;
+    
+}
+
+.swap-div{
+    padding-top: 15px;
+    text-align: center;
+}
+
+.convert{
+    background-color: rgb(45, 236, 45);
+    color:black;
+    
+}
+
+.convert-div{
+    padding-top: 100px;
+    text-align: center;
+    
+}

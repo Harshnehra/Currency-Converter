@@ -1,0 +1,17 @@
+.container{
+    margin: auto; 
+    padding-top: 50px;
+    width: 60%;
+    text-align: center;
+}
+
+.label-div{
+     display: flex;
+     justify-content:space-between;
+}
+
+.input-div{
+    display: flex;
+    justify-content: space-between;
+}
+
